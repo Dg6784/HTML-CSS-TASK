@@ -1,0 +1,17 @@
+
+
+    .backcolor {
+        background-color: #000e20;
+      
+      }
+    .size {
+        font-size: 10px;
+    }
+    .iconscolor {
+        color: rgb(101, 102, 101);
+    }
+    .form-control:focus {
+        box-shadow: none;
+    
+    } 
+

@@ -1,0 +1,67 @@
+.backcolor {
+    background-color: #000e20;
+  
+  }
+.size {
+    font-size: 10px;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  
+  .sizeimo {
+    font-size: 0.75rem;
+  }
+  
+  .verticalalign {
+    vertical-align: top;
+  }
+  .approverejectbackcolor{
+    background-color:rgb(87 93 170 / 25%);
+  }
+  
+  .sizecolwidth1{
+    width: 8%;
+  }
+  select:focus{
+    outline:0;
+  }
+  .cornericon{
+    /* margin-left: 775px; */
+    position: absolute;
+    right: 5px;
+    top: 10px;
+  }
+  .box1{
+    background-color: black;
+    padding-right: 0px;
+  }
+
+.total{
+  margin-top: 6px;
+}
+.squreicon{
+margin-left: 310px;
+}
+
+
+ul {
+  list-style: none;
+}
+
+ul .li1::before {
+  content: "\2022";
+  color: green;
+  width: 1em;
+  margin-left: -1em;
+  font-size: 14px;
+  
+  
+ 
+}
